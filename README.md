@@ -10,4 +10,4 @@ This project is to convert markdown (.md) file to html file using [`Python-Markd
 * Download and install python and [Markdown](https://pypi.org/project/Markdown/) if you don’t have it already.
 
 ### Deployment
-* Run a command `python3 file-converter.py markdown input_file output_file` to convert the md file.
+* Run a command `python file-converter.py markdown input_file output_file` to convert the md file.
